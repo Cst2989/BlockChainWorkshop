@@ -1,0 +1,15 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "a blockchain app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Neciu Dan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "web3": "^0.20.4"
+  }
+}
